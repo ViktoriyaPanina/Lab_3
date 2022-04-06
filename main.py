@@ -1,6 +1,5 @@
 from random import randint
 
-# Adding merge sort
 def merge(left, right, compare):
     result = []
     i, j = 0, 0
